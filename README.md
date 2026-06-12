@@ -228,6 +228,7 @@ JWT_SECRET=your_secret_key_here
 ---
 
 ## 📌 Notes
+
 - Frontend is intentionally simple — the focus was on cloud infrastructure
 - Backend runs on a private EC2 instance not directly exposed to the internet
 - Database is in an isolated subnet with no public access
