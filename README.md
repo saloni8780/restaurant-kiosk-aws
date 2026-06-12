@@ -228,7 +228,6 @@ JWT_SECRET=your_secret_key_here
 ---
 
 ## 📌 Notes
-- This is a college project built to learn AWS networking and cloud deployment
 - Frontend is intentionally simple — the focus was on cloud infrastructure
 - Backend runs on a private EC2 instance not directly exposed to the internet
 - Database is in an isolated subnet with no public access
