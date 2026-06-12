@@ -5,7 +5,7 @@ A full-stack restaurant ordering system with a React frontend, Node.js backend, 
 ---
 
 ## 🌐 Live Demo
-- **Frontend:** https://du8poy6yu2b8r.cloudfront.net
+- **Frontend:** http://restaurant-frontend-1780451992.s3-website-us-east-1.amazonaws.com
 - **API:** http://3.238.56.134:5000/api/menu
 
 ---
