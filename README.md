@@ -226,6 +226,13 @@ JWT_SECRET=your_secret_key_here
 ```
 
 ---
+## 🔐 Demo Credentials
+
+| Role | Email | Password |
+|------|-------|----------|
+| Kitchen Staff | chef@restaurant.com | kitchen123 |
+
+> These are test credentials for demo purposes only.
 
 ## 📌 Notes
 
