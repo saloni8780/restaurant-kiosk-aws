@@ -128,5 +128,3 @@ order_items  — id, order_id, menu_item_id, quantity, price
 
 ---
 
-## 👩‍💻 Author
-Saloni Kumari — 4th Year CS Student
