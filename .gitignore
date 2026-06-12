@@ -1,0 +1,16 @@
+# AWS Keys - NEVER commit these
+RestaurantKey.pem
+AWSCLIV2.pkg
+awscliv2.zip
+aws/
+
+# Backend sensitive files
+restaurant-backend/.env
+restaurant-backend/restaurant.db
+restaurant-backend/node_modules/
+restaurant-backend/5001JWT_SECRET*
+
+# Frontend
+restaurant-frontend/node_modules/
+restaurant-frontend/build/
+restaurant-frontend/.env
